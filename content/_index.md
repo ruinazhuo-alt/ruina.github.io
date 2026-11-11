@@ -1,6 +1,6 @@
 ---
 title: Ruina
-summary: Academic homepage of Ruina, a second-year PhD student at Cardiff University.
+summary: Academic homepage of Ruina, a PhD student at Cardiff University.
 type: landing
 sections:
   - block: resume-biography-3
