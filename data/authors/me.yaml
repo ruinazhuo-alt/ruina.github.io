@@ -3,16 +3,18 @@ slug: me
 is_owner: true
 
 name:
-  display: Ruina
+  display: Ruina Zhuo
   given: Ruina
+  family: Zhuo
 
-role: PhD Student
+role: PhD Candidate and Graduate Demonstrator
 
 bio: |
-  Hi, I'm Ruina, a PhD student at Cardiff University.
-  Welcome to my academic homepage!
+  I'm Ruina Zhuo, a PhD candidate in the School of Physical, Chemical and Environmental Sciences at Cardiff University, where I also work as a graduate demonstrator.
 
 affiliations:
+  - name: School of Physical, Chemical and Environmental Sciences
+    url: https://www.cardiff.ac.uk/about/organisation/colleges-schools/physical-chemical-and-environmental-sciences
   - name: Cardiff University
     url: https://www.cardiff.ac.uk/
 
