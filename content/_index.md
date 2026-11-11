@@ -1,17 +1,24 @@
 ---
-title: "Ruina"
-summary: "Academic homepage of Ruina, a second-year PhD student at Cardiff University."
+title: Ruina
+summary: Academic homepage of Ruina, a second-year PhD student at Cardiff University.
 type: landing
-
 sections:
   - block: resume-biography-3
+    id: about
     content:
       username: me
     design:
-      background:
-        gradient_mesh:
-          enable: true
       avatar:
-        size: medium
+        size: large
         shape: circle
+  - block: markdown
+    id: publications
+    content:
+      title: Publications
+      text: My publications will be listed here.
+  - block: markdown
+    id: projects
+    content:
+      title: Research Projects
+      text: Details of my doctoral research at Cardiff University will appear here.
 ---
