@@ -12,6 +12,11 @@ sections:
         size: large
         shape: circle
   - block: markdown
+    id: publications
+    content:
+      title: Publications
+      text: Selected publications will appear here.
+  - block: markdown
     id: projects
     content:
       title: Research Projects
