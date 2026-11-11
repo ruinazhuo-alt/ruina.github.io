@@ -63,3 +63,8 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+
+# Omit the starter's sample content from Ruina's homepage build.
+ignoreFiles:
+  - '(^|/)(blog|courses|events|projects|publications|slides)/'
+  - '(^|/)experience[.]md$'
